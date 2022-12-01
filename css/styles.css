@@ -1,0 +1,45 @@
+body {
+text-align: center;
+background-color: rgb(209, 209, 209);
+font-family: 'Open Sans', sans-serif;
+font-weight: 300;
+}
+
+h1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 800;
+}
+
+.fit-picture {
+    width: 250px;
+}
+
+.top-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    height: fit-content;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.middle-container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: grey;
+    width: 200px;
+    height: fit-content;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.bottom-container {
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: orange;
+    width: 200px;
+    height: fit-content;
+    width: 100%;
+    margin-bottom: 20px;
+}
